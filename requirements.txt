@@ -1,0 +1,3 @@
+- Git
+- OpenCV
+- TensorFlow
